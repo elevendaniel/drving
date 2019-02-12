@@ -11,4 +11,8 @@ if country== '美国':
 		print ('您可以考取驾照')
 	else:
 		print('您的年龄未达标')
-
+if contry=='中国‘
+	if age>= 18:
+	  print('您可以考取驾照')
+	else:
+	    print('您的年龄未达标')
